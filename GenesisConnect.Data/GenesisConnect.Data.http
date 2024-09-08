@@ -1,0 +1,6 @@
+@GenesisConnect.Data_HostAddress = http://localhost:5038
+
+GET {{GenesisConnect.Data_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

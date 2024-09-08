@@ -1,0 +1,6 @@
+@GenesisConnect.Authentication_HostAddress = http://localhost:5197
+
+GET {{GenesisConnect.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NLC60TE0wywdQDWCoJRGYEw8KxLulRPDanLvpLErtrQ=",
+  "Source": "GenesisConnect.Authentication",
+  "BasePath": "_content/GenesisConnect.Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
